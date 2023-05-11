@@ -1,0 +1,19 @@
+Basic:
+to run the js file dorectly - node myfirst.js
+to get user input  - prompt("text")
+to alert the user - alert("msg")
+console.log("any content to be displayed in console")
+to see the current project in the browser using local server - npm install -g live-server 
+
+Data types:
+
+Number(prompt("Enter the number:"))
+console.log('Interest from Budget',amt)
+Math.ceil()
+Math.floor()
+Math.round()
+random between 4 - Math.random() * 4
+
+Const - value cannot be changed
+Let  - Value can be changed
+Var - Value can be changed (no recommended in this stage)
